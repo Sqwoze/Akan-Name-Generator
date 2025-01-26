@@ -37,7 +37,7 @@ In Akan culture, names are important and represent the day a person was born. Th
 
 ## Screenshot of the site Design
 Here is a Link to the site --> (https://sqwoze.github.io/Akan-Name-Generator/)
-![image alt]()
+![image alt](https://github.com/Sqwoze/Akan-Name-Generator/blob/111e492de06c392089b04636612e9635593d1be6/1BAFA338-BECF-441C-B7F8-88542DA31226.png)
 
 ## Features
 - Birthdate Input: Users can input their birthdate using a date picker to calculate the day of the week they were born.
