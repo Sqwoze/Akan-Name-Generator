@@ -5,7 +5,7 @@
 
 * {
     background-origin: border-box;
-    background-color: black;
+    background-image: linear-gradient(#333, #333);
 }
 
 form {
@@ -62,8 +62,27 @@ button:hover {
 
 .male {
     cursor: pointer;
+    background-color: #333;
 }
 
 .female {
     cursor: pointer;
+    background-color: #333;
+}
+
+.gender {
+    background-color: #333;
+}
+
+#result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: calc(100% - 20px);
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #333;
+    color: white;
 }

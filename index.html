@@ -12,7 +12,8 @@
         <hr>
     </header>
     <article>
-        <form action="#" method="post" div class="form">
+        <div class="form">
+        <form action="#" method="post" div class="form" id="form">
             <label for="Day"></label>
             <input type="text" div class="day" id="Day" placeholder="Day" min="1" max="31" required>
             <br>
@@ -22,15 +23,22 @@
             <label for="Year"></label>
             <input type="text" div class="year" id="Year" placeholder="Year" min="1900" max="2025" required>
             <br>
-            <div class="gender"></div>
-            <label for="Male">Male</label>
-            <input type="checkbox" div class="male" id="Male" required>
-            <label for="Female">Female</label>
-            <input type="checkbox" div class="female" id="Female">
+            <div class="gender">
+            <label div class="genderselect">
+                <input type="radio" name="gender" value="male" div class="male"> Male
+              </label>
+              <label>
+                <input type="radio" name="gender" value="female" div class="female"> Female
+              </label>
+            </div>
             <br>
             <button type="submit" div class="submitbtn">Submit</button>
         </form>
+    </div>
     </article>
     <script src="script.js"></script>
+    <footer>
+        <h2 id="result"></h2>
+    </footer>
 </body>
 </html>
