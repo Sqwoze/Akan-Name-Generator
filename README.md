@@ -3,8 +3,7 @@
 ## Author
 Hello, My name is Fabs an upcoming software engineering currently learning the foundation of software engineering.This is my personal project enjoy!
 
-Welcome to **Akan name generator**, a project that aims to provide an immersive storytelling experience through visuals and interactive elements.
-
+Welcome to **Akan name generator**, this is a web application that allows users to discover their traditional Akan name based on their birthdate and gender. The app calculates the day of the week a user was born and assigns an Akan name, as each day is associated with specific names in Akan culture. This tool offers an easy way to connect with Akan heritage, highlighting the cultural significance of names within the Akan community.
 ## Table of Contents
 - [Author](#author)
 - [About the Project](#about-the-project)
