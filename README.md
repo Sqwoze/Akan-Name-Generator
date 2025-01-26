@@ -34,7 +34,7 @@ Click submit to see your Akan name!
 Why It Matters
 In Akan culture, names are important and represent the day a person was born. They carry meaning and reflect the individual’s spiritual connection to the world. This generator helps spread awareness of this cultural tradition.
 
-## Screenshot of the site Design
+## Screenshot of the site.
 Here is a Link to the site --> (https://sqwoze.github.io/Akan-Name-Generator/)
 ![image alt](https://github.com/Sqwoze/Akan-Name-Generator/blob/111e492de06c392089b04636612e9635593d1be6/1BAFA338-BECF-441C-B7F8-88542DA31226.png)
 
