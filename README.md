@@ -53,7 +53,7 @@ Here is a Link to the site --> (https://sqwoze.github.io/Akan-Name-Generator/)
 - Instant Name Display: Once the user submits their information, the Akan name is instantly displayed on the page.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 For any questions or suggestions, feel free to reach out via the project's GitHub repository: [Akan Name Generator](https://github.com/Sqwoze/Akan-Name-Generator).
