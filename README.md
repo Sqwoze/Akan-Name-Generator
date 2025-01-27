@@ -20,23 +20,23 @@ Day Calculation: The app calculates the day of the week from the user’s birthd
 Name Assignment: Based on the calculated day and the user’s gender, the app assigns an Akan name from a predefined list.
 For example:
 
-Sunday: Kwasi (male), Akosua (female)
-Monday: Kwabena (male), Abena (female)
-Tuesday: Kwaku (male), Akua (female)
+- Sunday: Kwasi (male), Akosua (female)
+- Monday: Kwabena (male), Abena (female)
+- Tuesday: Kwaku (male), Akua (female)
 And so on...
-Purpose
+- Purpose
 This tool helps users learn their traditional Akan name based on their birthdate. It’s a fun way to connect with Akan culture and heritage, especially for those unfamiliar with this naming tradition.
 
-How to Use
-Enter your birthdate using the date picker.
-Select your gender (male or female).
-Click submit to see your Akan name!
-Why It Matters
-In Akan culture, names are important and represent the day a person was born. They carry meaning and reflect the individual’s spiritual connection to the world. This generator helps spread awareness of this cultural tradition.
+## How to Use
+- Enter your birthdate using the date picker.
+- Select your gender (male or female).
+- Click submit to see your Akan name!
+- Why It Matters
+- In Akan culture, names are important and represent the day a person was born. They carry meaning and reflect the individual’s spiritual connection to the world. This generator helps spread awareness of this cultural tradition.
 
 ## Screenshot of the site.
 Here is a Link to the site --> (https://sqwoze.github.io/Akan-Name-Generator/)
-![image alt](https://github.com/Sqwoze/Akan-Name-Generator/blob/111e492de06c392089b04636612e9635593d1be6/1BAFA338-BECF-441C-B7F8-88542DA31226.png)
+![image alt]([https://github.com/Sqwoze/Akan-Name-Generator/blob/111e492de06c392089b04636612e9635593d1be6/1BAFA338-BECF-441C-B7F8-88542DA31226.png](https://github.com/Sqwoze/Akan-Name-Generator/blob/1d32af77220cc4d8804f9e6e1bfa31d08c175ec0/img/97A0F68C-E346-4DB0-8DE2-37BFB5B7759D.png))
 
 ## Features
 - Birthdate Input: Users can input their birthdate using a date picker to calculate the day of the week they were born.
