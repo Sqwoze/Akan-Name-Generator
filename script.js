@@ -1,14 +1,15 @@
 function getDayOfWeek(dateString) {
     const date = new Date(dateString);
+    console.log("Parsed date:", date);
     return date.getDay();
 }
 
 function getAkanName(gender, dayOfWeek) {
     const akanNamesMale = [
-        "Kwasi", "Kwabena", "Kwaku", "Kwado", "Kofi", "Kwame", "Kwasi"
+        "Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"
     ];
     const akanNamesFemale = [
-        "Akosua", "Abena", "Akua", "Adwoa", "Afia", "Ama", "Akosua"
+        "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"
     ];
 
     if (gender === "male") {
