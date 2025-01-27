@@ -6,6 +6,8 @@ Hello, My name is Fabs an upcoming software engineering currently learning the f
 ## Table of Contents
 - [Author](#author)
 - [About the Project](#about-the-project)
+- [How it works](#How-it-Works)
+- [How to use](#How-to-Use)
 - [Screenshot of the site Design](#Screenshot-of-the-site-Design)
 - [Features](#features)
 - [Contributing](#contributing)
@@ -15,8 +17,8 @@ Hello, My name is Fabs an upcoming software engineering currently learning the f
 ## About the Project
 The Akan Name Generator is a web application that generates Akan names based on a user’s birthdate and gender. Akan names are traditional names from the Akan people of West Africa, particularly Ghana and Côte d'Ivoire. These names are deeply tied to the day of the week a person was born and their gender.
 
-How it Works
-Day Calculation: The app calculates the day of the week from the user’s birthdate.
+## How it Works
+- Day Calculation: The app calculates the day of the week from the user’s birthdate.
 Name Assignment: Based on the calculated day and the user’s gender, the app assigns an Akan name from a predefined list.
 For example:
 
