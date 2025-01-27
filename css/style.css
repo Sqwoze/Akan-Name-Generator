@@ -86,3 +86,8 @@ button:hover {
     background-color: #333;
     color: white;
 }
+
+.day {
+    border: 2px solid #ccc;
+    cursor: pointer;
+}
